@@ -1,0 +1,1 @@
+update comp_employee set is_super_admin = '1' where recid = 2;
